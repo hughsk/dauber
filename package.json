@@ -1,0 +1,34 @@
+{
+  "name": "dauber",
+  "version": "1.0.0",
+  "description": "Pooled requestAnimationFrame wrapper, designed for short bursts of animation as opposed to a constant loop.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/dauber.git"
+  },
+  "keywords": [
+    "raf",
+    "animation",
+    "frame",
+    "loop",
+    "timing",
+    "cancel",
+    "pool",
+    "dom",
+    "browserify"
+  ],
+  "homepage": "https://github.com/hughsk/dauber",
+  "bugs": {
+    "url": "https://github.com/hughsk/dauber/issues"
+  }
+}
