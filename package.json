@@ -4,14 +4,21 @@
   "description": "Pooled requestAnimationFrame wrapper, designed for short bursts of animation as opposed to a constant loop.",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
   "author": {
     "name": "Hugh Kennedy",
     "email": "hughskennedy@gmail.com",
     "url": "http://hughsk.io/"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "raf": "^2.0.3"
+  },
+  "devDependencies": {
+    "tap-spec": "^1.0.0",
+    "tape": "^3.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/hughsk/dauber.git"
