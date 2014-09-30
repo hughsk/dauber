@@ -1,6 +1,6 @@
 {
   "name": "dauber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pooled requestAnimationFrame wrapper, designed for short bursts of animation as opposed to a constant loop.",
   "main": "index.js",
   "license": "MIT",
