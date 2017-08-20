@@ -1,4 +1,6 @@
-# dauber [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+# dauber [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
+**Deprecated**
 
 Pooled requestAnimationFrame wrapper, designed for short bursts of animation as
 opposed to a constant loop. Useful for DOM/SVG-based animations where CSS
